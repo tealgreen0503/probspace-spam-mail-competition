@@ -36,3 +36,6 @@
 - 本文中に多く登場した'enron', 'ect', 'hou'をtokenizerの辞書に追加
 - XLNet
   - もっとしっかりチューニングをすれば効果的だったかもしれない
+
+## result
+### Public Score
