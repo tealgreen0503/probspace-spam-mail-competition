@@ -39,3 +39,9 @@
 
 ## result
 ### Public Score
+- 5位
+![public score](img/public_leader_board.png)
+
+### Private score
+- 6位
+![private score](img/private_leader_board.png)
